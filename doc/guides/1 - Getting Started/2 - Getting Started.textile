@@ -5,6 +5,7 @@ This guide covers getting up and running with Refinery CMS. After reading it, yo
 * Installing and creating a new Refinery site
 * Changing the front end design of a Refinery site
 * Extending Refinery's functionality with custom extensions
+* Custom templates
 
 endprologue.
 
